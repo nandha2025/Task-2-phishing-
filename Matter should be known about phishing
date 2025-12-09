@@ -1,0 +1,5 @@
+Phishing is when someone pretends to be a trusted person or company to trick you.
+It feels urgent or scary (like “your account will be blocked today”). The email asks for passwords, OTPs, or bank details and has strange links or attachments
+They usually send fake emails or messages to steal your passwords, money, or personal details.
+You can copy the email header and paste it into free online “email header analyzer” tools. 
+Security teams may also use special security or SIEM tools to check headers automatically. 
